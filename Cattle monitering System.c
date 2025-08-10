@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
-
+ 
 // SoftwareSerial for GSM and GPS communication
 SoftwareSerial gsmSerial(0, 2); // RX, TX for GSM 800L
 SoftwareSerial gpsSerial(5, 4); // RX, TX for GPS Module
