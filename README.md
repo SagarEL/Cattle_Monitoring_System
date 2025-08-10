@@ -39,7 +39,7 @@ It sends the cattle's location via SMS whenever:
 | GND    | GND         | Common ground |
 
 **Wiring Diagram Image:**  
-![Wiring Diagram](wiring_diagram.png)
+![Wiring Diagram](wiring_Diagram.png)
 
 ---
 
