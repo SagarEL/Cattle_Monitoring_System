@@ -53,3 +53,14 @@ It sends the cattle's location via SMS whenever:
    - Replies with Google Maps link if from registered number.
 5. Location format:  
 https://www.google.com/maps?q=LAT,LNG
+
+
+## 🚀 How to Use
+1. Insert a SIM card into GSM module.
+2. Upload the code to ESP8266.
+3. Power up the system.
+4. Wait for GPS to lock (~30s outdoors).
+5. Get location:
+- Call the module’s number → Location SMS sent.
+- Send SMS `"Getloc"` → Location SMS sent.
+6. Receive automatic location updates every 30 mins.
