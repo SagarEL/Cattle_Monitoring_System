@@ -57,8 +57,8 @@ https://www.google.com/maps?q=LAT,LNG
 
 ## 🚀 How to Use
 1. Insert a SIM card into GSM module.
-2. Upload the code to ESP8266.
-3. Power up the system.
+2. Power up the system. 
+3. Upload the code to ESP8266.
 4. Wait for GPS to lock (~30s outdoors).
 5. Get location:
 - Call the module’s number → Location SMS sent.
