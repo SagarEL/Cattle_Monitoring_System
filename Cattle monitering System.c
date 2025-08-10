@@ -7,7 +7,7 @@ SoftwareSerial gpsSerial(5, 4); // RX, TX for GPS Module
 
 TinyGPSPlus gps; // GPS object
 
-String registeredNumber = "+917676160339"; // Store the mobile number for SMS
+String registeredNumber = "+91XXXXXXXX"; // Store the mobile number for SMS
 unsigned long previousMillis = 0; // Track the last time SMS was sent
 const unsigned long interval = 1800000; // 30 minutes in milliseconds
 
