@@ -29,14 +29,14 @@ It sends the cattle's location via SMS whenever:
 
 ## 🔌 Wiring Diagram
 
-| Module | ESP8266 Pin | Notes |
-|--------|-------------|-------|
-| GSM RX | D2          | SoftwareSerial (gsmSerial) |
-| GSM TX | D0          |  |
-| GPS RX | D4          | SoftwareSerial (gpsSerial) |
-| GPS TX | D5          |  |
-| Power  | VIN → 5V    | Common ground with ESP8266 |
-| GND    | GND         | Common ground |
+| Module | ESP8266 Pin | 
+|--------|-------------|
+| GSM RX | D2          | 
+| GSM TX | D0          |  
+| GPS RX | D4          | 
+| GPS TX | D5          |  
+| Power  | VIN → 5V    |
+| GND    | GND         |
 
 **Wiring Diagram Image:**  
 ![Wiring Diagram](wiring_Diagram.png)
